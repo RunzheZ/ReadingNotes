@@ -1,4 +1,5 @@
 # ReadingNotes
-Notes for the interesting books!
 
-Let's try to input something.
+Take some notes for the interesting books!
+
+
